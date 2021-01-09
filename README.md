@@ -1,2 +1,4 @@
 # Eloquent JavaScript (3rd edition) Exercises
-Eloquent JavaScript (3rd edition) exercisess
+
+
+* 3.2 Recursion. Unable to solve.
